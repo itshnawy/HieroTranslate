@@ -9,7 +9,7 @@ Before you can use HieroTranslate, you'll need to install Dart. Please follow th
 Once Dart is installed, you can clone the HieroTranslate repository by running the following command in your terminal:
 
 ```bash
-git clone https://github.com/mohmmedlshenawy/hierotranslate.git
+git clone https://github.com/mohmmedlshenawy/HieroTranslate.git
 ```
 
 ## Usage
