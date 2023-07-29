@@ -1,5 +1,7 @@
 # HieroTranslate
 𓉔𓃒𓆣𓆣𓉐𓅱 𓏲𓉐𓂋𓆣𓂧
+<br/>
+
 HieroTranslate is a simple command-line tool created in Dart for translating English words into hieroglyphs. If you have a fascination with ancient Egypt like I do, this tool can be a fun way to explore the world of hieroglyphic writing.
 
 ## Installation
